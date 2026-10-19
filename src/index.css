@@ -1,0 +1,12 @@
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+body {
+  font-family: 'Segoe UI', Tahoma, sans-serif;
+  background: linear-gradient(135deg, #FFE5EC 0%, #E0F4FF 35%, #E8DEFF 70%, #D4F8E8 100%);
+  background-attachment: fixed;
+  min-height: 100vh;
+  color: #5a4a6a;
+}
+
+button { transition: 0.3s; }
+button:hover { transform: scale(1.05); }
